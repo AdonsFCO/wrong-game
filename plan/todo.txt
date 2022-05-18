@@ -1,0 +1,13 @@
+Create the embiroment. Should be like the plase in all the magic happens
+Create indivitual class that compose the embiroment
+Create vehabiour of the embiroment
+
+Hitboxes  - Should create an event called on hit. 
+Phisics 
+
+The css code should be inyected on each object so. No external css files.
+
+Remember templates: 
+https://www.youtube.com/watch?v=mfN-EOkj13Q
+Remember gravity in games 
+https://www.youtube.com/watch?v=c4b9lCfSDQM
