@@ -1,0 +1,28 @@
+Name: Apple
+Hex: #4FAF44
+RGB: (79, 175, 68)
+CMYK: 0.548, 0, 0.611, 0.313
+AUREOLIN	
+
+Name: Aureolin
+Hex: #F6EB14
+RGB: (246, 235, 20)
+CMYK: 0, 0.044, 0.918, 0.035
+
+DEEP SAFFRON	
+Name: Deep Saffron
+Hex: #FF9526
+RGB: (255, 149, 38)
+CMYK: 0, 0.415, 0.850, 0
+
+CINNABAR	
+Name: Cinnabar
+Hex: #EF4423
+RGB: (239, 68, 35)
+CMYK: 0, 0.715, 0.853, 0.062
+
+PIGMENT BLUE	
+Name: Pigment Blue
+Hex: #2A3492
+RGB: (42, 52, 146)
+CMYK: 0.712, 0.643, 0, 0.427
