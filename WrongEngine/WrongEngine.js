@@ -1,0 +1,1 @@
+import {WrongGe} from "./Graphical Engine/WrongGe.js";
